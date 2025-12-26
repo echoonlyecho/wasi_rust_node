@@ -1,0 +1,15 @@
+{
+  "name": "wasi_hello_world",
+  "version": "1.0.0",
+  "description": "A minimal Rust + WASI demo that writes \"Hello world!\" into a local file.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wasi": "^0.0.6"
+  }
+}
